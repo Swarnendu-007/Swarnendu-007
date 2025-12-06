@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swarnendu Das</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data analyst/ Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnendu-007&label=Profile%20views&color=0e75b6&style=flat" alt="swarnendu-007" /> </p>
 
 - 🌱 I’m currently learning **react,python, ml**
 
-- 💬 Ask me about **html,css,c++**
+- 💬 Ask me about **html,css,c++,python,Power BI,Excel,ML,NLP**
 
 - 📫 How to reach me **daswarnendu52@gmail.com**
 
